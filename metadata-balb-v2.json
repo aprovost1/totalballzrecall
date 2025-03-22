@@ -1,0 +1,16 @@
+{
+  "name": "Bayou La Batre",
+  "symbol": "BALB",
+  "description": "Come try some Bubba Gump shrimps!",
+  "image": "https://raw.githubusercontent.com/aprovost1/totalballzrecall/refs/heads/main/BALB.png",
+  "decimals": 9, 
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/aprovost1/totalballzrecall/refs/heads/main/BALB.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
